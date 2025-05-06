@@ -33,7 +33,7 @@ Reach me on GitHub: @Fawzib-dev
 
 "Code is my playground, and AI is my teammate."
 
-<!---![fbilalbuilder](https://github.com/user-attachments/assets/db306a57-cb73-4db9-b832-58429cf222c6)
+![fbilalbuilder](https://github.com/user-attachments/assets/86c65ef9-625f-49ce-8bc6-6e1a2512ad7f)
 
 fawzib-dev/fawzib-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
