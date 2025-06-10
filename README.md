@@ -11,7 +11,7 @@ What I Love:
 
 I'm Currently Learning:
 - CSS styling best practices
-- Java programming
+- Javascript programming
 - Full-stack web development
 - Designing AI-powered tools (like NovaCalc!)
 
@@ -35,6 +35,4 @@ Reach me on GitHub: @Fawzib-dev
 
 <a href="https://app.daily.dev/fbilalbuilder"><img src="https://api.daily.dev/devcards/v2/zYLixU5j9BkTyLzAj9fkq.png?type=wide&r=zyu" width="652" alt="Fawzān Ibn Bilāl's Dev Card"/></a>
 
-fawzib-dev/fawzib-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 ---> Copyrighted © ™ - Fawzaan Ibn Bilal 2024-2027 README - GITHUB 
