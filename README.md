@@ -35,4 +35,4 @@ Reach me on GitHub: @Fawzib-dev
 
 <a href="https://app.daily.dev/fbilalbuilder"><img src="https://api.daily.dev/devcards/v2/zYLixU5j9BkTyLzAj9fkq.png?type=wide&r=zyu" width="652" alt="Fawzān Ibn Bilāl's Dev Card"/></a>
 
----> Copyrighted © ™ - Fawzaan Ibn Bilal 2024-2027 README - GITHUB 
+---> Copyrighted © ™ - Fawzaan Ibn Bilal 2025-2027 README - GITHUB 
