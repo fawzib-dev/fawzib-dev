@@ -10,13 +10,13 @@
 
 ## About Me
 
-- 🤖 **AI-Powered Developer** - Leveraging AI tools for smarter development
-- 💻 **Full Stack Craftsman** - Building end-to-end solutions
-- 🧠 **ML Enthusiast** - Exploring machine learning & neural networks
+- 🤖 **Mini AI-Powered Developer** - Leveraging AI tools for smarter development
+- 💻 **Full Stack Designer ** - Building end-to-end solutions
+- Data Website Technician
+- Graphic Designer
+- AI Designer 
 - 🎯 Passionate about building intelligent, innovative solutions
-- 🌱 Always learning cutting-edge AI & machine learning technologies
 - 💡 Love solving complex problems with elegant, AI-enhanced code
-- 🤝 Open to collaboration on AI/ML projects and open-source contributions
 - ⚡ Quick learner with a growth mindset in emerging tech
 - 🚀 Using AI tools to accelerate development and innovation
 
