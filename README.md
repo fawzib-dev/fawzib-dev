@@ -111,6 +111,4 @@
 
 **Built by fawzib-dev**
 
-*"No hype. Just progress."*
-
 </div>
