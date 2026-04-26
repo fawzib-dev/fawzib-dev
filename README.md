@@ -14,6 +14,8 @@
 
 ---
 
+https://fbilalbio.lovable.app
+
 ## About Me
 
 - Mini Developer  
@@ -120,6 +122,6 @@ Profile Image
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fawzib-dev&color=blueviolet&style=flat-square)
 
-**Built by fawzib-dev**
+**Built by fawzib-dev** Check out by profilo site: https://fbilalbio.lovable.app
 
 </div>
