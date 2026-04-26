@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/78473d2b-e814-4e69-9acc-b04033ce7b32" />
 
-# Hey there! I'm **fawzib-dev**
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> # Hello there! I'm **Fawzi Designs**
 
 <div align="center">
   
