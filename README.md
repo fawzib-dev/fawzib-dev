@@ -1,4 +1,4 @@
-file:///C:/Users/findf/Downloads/Main%20Back%20Office/Fawzi%20Stuff/Fawzi%20Designs%20Banner.png
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/78473d2b-e814-4e69-9acc-b04033ce7b32" />
 
 # Hey there! I'm **fawzib-dev**
 
