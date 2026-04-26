@@ -66,6 +66,11 @@
 | **Data Website Projects** | Simple websites focused on layout and data structure | HTML, CSS |
 | **Graphic Design Work** | Flyers, posters, and visual content | Design Tools |
 
+Profile Image 
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/364c1aa4-1ab1-4f63-af7d-b9ee82605e64" />
+
+
 </div>
 
 ---
