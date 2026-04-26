@@ -2,7 +2,7 @@
 
 
 
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> 
 
 # Hello there! I'm **Fawzi Designs**
 
