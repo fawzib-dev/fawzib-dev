@@ -4,7 +4,7 @@
 
 
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> 
 
 # Hello there! I'm **Fawzi Designs**
 
