@@ -27,7 +27,8 @@ https://fbilalbio.lovable.app
 - 🤖 AI Designer — I use AI to build designs, presentations, and ideas  
 - 🎯 I focus on real output, not fake hype  
 - ⚡ Improving fast — consistency over everything  
-- 🚀 Using AI tools to move faster and smarter  
+- 🚀 Using AI tools to move faster and smarter
+- Interested In AI coding (Vibe code)
 
 ---
 
