@@ -1,10 +1,3 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/78473d2b-e814-4e69-9acc-b04033ce7b32" />
-
-
-
-
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e62c0edb-e959-4ace-9deb-5595213f2637" /> 
 
 # Hello there! I'm **Fawzi Designs**
 
@@ -123,7 +116,6 @@ Profile Image
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fawzib-dev&color=blueviolet&style=flat-square)
 
 **Built by fawzib-dev** Check out by profilo site: https://fbilalbio.lovable.app
 
