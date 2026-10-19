@@ -9,8 +9,8 @@
 
 ---
 
-https://fbilalbio.lovable.app
-
+](https://fawzib-dev.vercel.app/)
+https://fawzidesigns.com/
 ## About Me
 
 - Mini Developer  
